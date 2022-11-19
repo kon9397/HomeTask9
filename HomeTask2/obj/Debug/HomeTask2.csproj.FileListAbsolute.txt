@@ -1,0 +1,8 @@
+C:\Users\Konstantin\source\repos\HomeWork9\HomeTask2\bin\Debug\HomeTask2.exe.config
+C:\Users\Konstantin\source\repos\HomeWork9\HomeTask2\bin\Debug\HomeTask2.exe
+C:\Users\Konstantin\source\repos\HomeWork9\HomeTask2\bin\Debug\HomeTask2.pdb
+C:\Users\Konstantin\source\repos\HomeWork9\HomeTask2\obj\Debug\HomeTask2.csproj.AssemblyReference.cache
+C:\Users\Konstantin\source\repos\HomeWork9\HomeTask2\obj\Debug\HomeTask2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Konstantin\source\repos\HomeWork9\HomeTask2\obj\Debug\HomeTask2.csproj.CoreCompileInputs.cache
+C:\Users\Konstantin\source\repos\HomeWork9\HomeTask2\obj\Debug\HomeTask2.exe
+C:\Users\Konstantin\source\repos\HomeWork9\HomeTask2\obj\Debug\HomeTask2.pdb
